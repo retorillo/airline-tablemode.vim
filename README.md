@@ -22,7 +22,7 @@ git clone https://github.com/retorillo/airline-tablemode.vim.git $home/vimfiles/
 ## Options
 
 ```vimL
-g:airline#extensions#tablemode#symbol = "Your custom symbol or message"
+let g:airline#extensions#tablemode#symbol = "Your custom symbol or message"
 ```
 
 ## License
